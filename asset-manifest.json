@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sunny/static/css/main.f8557583.css",
+    "main.js": "/Sunny/static/js/main.791b840f.js",
+    "index.html": "/Sunny/index.html",
+    "main.f8557583.css.map": "/Sunny/static/css/main.f8557583.css.map",
+    "main.791b840f.js.map": "/Sunny/static/js/main.791b840f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8557583.css",
+    "static/js/main.791b840f.js"
+  ]
+}
